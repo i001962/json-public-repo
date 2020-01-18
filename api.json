@@ -1,1 +1,1 @@
-{}
+{   "metadata_type": [     "recording"   ],   "session_id": [     "1_1_1_1"   ],   "sensors": [     "imu",     "lidar_left",     "lidar_right",     "camera_right_front",     "camera_right_side",     "ir_camera"   ],   "weather": [     "sunny1111111111111"   ] }
